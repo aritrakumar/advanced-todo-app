@@ -139,6 +139,11 @@ export const fetchWeather = async (city) => {
 };
 ```
 
+## Deployment
+
+### Live Demo:
+[Click here to view the deployed application](https://advanced-todo-app-navy.vercel.app/)
+
 ## Contributing
 
 Feel free to fork this repository and submit a pull request!
